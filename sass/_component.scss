@@ -29,6 +29,8 @@ h2 {
   color: $color-primary-computer-choice;
 }
 
+#player .far:last-of-type {}
+
 .selected {
   color: $color-primary-black !important;
 }
