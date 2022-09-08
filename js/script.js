@@ -5,3 +5,4 @@ const computerChoiceEl = document.getElementById('computerChoice');
 const resultText = document.getElementById('resultText');
 
 const playerRock = document.getElementById('playerRock');
+const playerPaper = document.getElementById('playerPaper');
