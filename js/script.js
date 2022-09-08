@@ -42,7 +42,15 @@ function resetSelected() {
 }
 
 // Reset Score & playerChoice/ComputerChoice
-function resetAll() {}
+function resetAll() {
+  playerScoreNumber = 0;
+  computerScoreNumber = 0;
+  playerScoreEl.textContent = playerScoreNumber;
+  computerScoreEl.textContent = computerScoreNumber;
+  playerChoiceEl.textContent = '';
+  computerChoiceEl.textContent = '';
+  resultText.textContent = '';
+}
 
 // Random computer choice 
 function computerRandomChoice() {
