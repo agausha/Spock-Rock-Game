@@ -11,4 +11,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.game-container {
+  width: 530px;
 }/*# sourceMappingURL=main.css.map */
