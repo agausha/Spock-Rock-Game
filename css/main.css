@@ -27,6 +27,10 @@ h2 {
   margin-bottom: 20px;
 }
 
+.far {
+  font-size: 50px;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
