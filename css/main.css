@@ -19,6 +19,10 @@ h1 {
   margin: 1rem;
 }
 
+.player-container {
+  margin: 50px;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
