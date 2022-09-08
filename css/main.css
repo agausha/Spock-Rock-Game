@@ -16,4 +16,5 @@ body {
 .game-container {
   width: 530px;
   height: 600px;
+  background: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
