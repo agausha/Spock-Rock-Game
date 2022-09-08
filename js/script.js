@@ -11,3 +11,4 @@ const playerLizard = document.getElementById('playerLizard');
 const playerSpock = document.getElementById('playerSpock');
 
 const computerRock = document.getElementById('computerRock');
+const computerPaper = document.getElementById('computerPaper');
