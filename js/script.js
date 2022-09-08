@@ -31,7 +31,9 @@ let computerScoreNumber = 0;
 let computerChoice = ';'
 
 // Call functions to process turn
-function checkResult(playerChoice) {}
+function checkResult(playerChoice) {
+  updateScore(playerChoice);
+}
 
 // Passing player selection value and styling icons
 function select(playerChoice) {
