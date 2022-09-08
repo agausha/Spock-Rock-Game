@@ -42,6 +42,11 @@ h2 {
   cursor: pointer;
 }
 
+#computer .far,
+#computer .choice {
+  color: hsl(357deg, 83%, 55%);
+}
+
 .game-container {
   width: 530px;
   height: 600px;
