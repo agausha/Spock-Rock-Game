@@ -32,6 +32,9 @@ let playerScoreNumber = 0;
 let computerScoreNumber = 0;
 let computerChoice = ';'
 
+// Random computer choice 
+function computerRandomChoice() {}
+
 // Add 'selected' styling & computerChoice
 function displayComputerChoice() {
   switch (computerChoice) {
