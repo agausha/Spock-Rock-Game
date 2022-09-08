@@ -9,4 +9,5 @@ body {
   background: hsl(0deg, 0%, 96%);
   font-family: "Lato", sans-serif;
   display: flex;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
