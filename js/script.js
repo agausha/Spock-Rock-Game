@@ -33,7 +33,11 @@ let computerScoreNumber = 0;
 let computerChoice = ';'
 
 // Reset all 'selected' icons
-function resetSelected() {}
+function resetSelected() {
+  allGameIcons.forEach((icon) => {
+    icon.classList.remove('selected');
+  });
+}
 
 // Random computer choice 
 function computerRandomChoice() {
