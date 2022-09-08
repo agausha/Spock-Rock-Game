@@ -41,6 +41,9 @@ function resetSelected() {
   removeConfetti();
 }
 
+// Reset Score & playerChoice/ComputerChoice
+function resetAll() {}
+
 // Random computer choice 
 function computerRandomChoice() {
   const computerChoiceNumber = Math.random();
