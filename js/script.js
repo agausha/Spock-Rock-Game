@@ -25,3 +25,6 @@ const choices = {
   lizard: { name: 'Lizard', defeats: ['paper', 'spock'] },
   spock: { name: 'Spock', defeats: ['scissors', 'rock'] },
 };
+
+// Passing player selection value and styling icons
+function select(playerChoice) {}
