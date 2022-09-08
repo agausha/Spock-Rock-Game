@@ -28,6 +28,7 @@ const choices = {
 
 // Passing player selection value and styling icons
 function select(playerChoice) {
+  checkResult(playerChoice);
   // Add 'selected' styling & playerChoice
   switch (playerChoice) {
     case 'rock':
