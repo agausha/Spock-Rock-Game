@@ -32,6 +32,9 @@ let playerScoreNumber = 0;
 let computerScoreNumber = 0;
 let computerChoice = ';'
 
+// Reset all 'selected' icons
+function resetSelected() {}
+
 // Random computer choice 
 function computerRandomChoice() {
   const computerChoiceNumber = Math.random();
