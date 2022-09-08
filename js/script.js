@@ -14,3 +14,4 @@ const computerRock = document.getElementById('computerRock');
 const computerPaper = document.getElementById('computerPaper');
 const computerScissors = document.getElementById('computerScissors');
 const computerLizard = document.getElementById('computerLizard');
+const computerSpock = document.getElementById('computerSpock');
