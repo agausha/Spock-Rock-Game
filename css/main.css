@@ -13,6 +13,10 @@ body {
   align-items: center;
 }
 
+h1 {
+  color: hsl(0deg, 0%, 100%);
+}
+
 .game-container {
   width: 530px;
   height: 600px;
