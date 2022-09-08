@@ -24,4 +24,6 @@ body {
 .header {
   background: hsl(210deg, 100%, 56%);
   border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  height: 100px;
 }/*# sourceMappingURL=main.css.map */
