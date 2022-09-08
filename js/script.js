@@ -7,3 +7,4 @@ const resultText = document.getElementById('resultText');
 const playerRock = document.getElementById('playerRock');
 const playerPaper = document.getElementById('playerPaper');
 const playerScissors = document.getElementById('playerScissors');
+const playerLizard = document.getElementById('playerLizard');
