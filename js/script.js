@@ -37,6 +37,7 @@ function resetSelected() {
   allGameIcons.forEach((icon) => {
     icon.classList.remove('selected');
   });
+  stopConfetti();
 }
 
 // Random computer choice 
