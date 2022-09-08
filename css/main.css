@@ -60,6 +60,7 @@ h2 {
 .result-container {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .game-container {
