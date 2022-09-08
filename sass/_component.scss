@@ -29,4 +29,6 @@ h2 {
   color: $color-primary-computer-choice;
 }
 
-.selected {}
+.selected {
+  color: $color-primary-black !important;
+}
