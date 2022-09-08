@@ -54,6 +54,7 @@ h2 {
 .reset-icon {
   font-size: 30px;
   cursor: pointer;
+  margin-left: 50px;
 }
 
 .game-container {
