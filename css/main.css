@@ -27,4 +27,5 @@ body {
   border-top-right-radius: 5px;
   height: 100px;
   display: flex;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
