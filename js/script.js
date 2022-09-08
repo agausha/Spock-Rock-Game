@@ -38,6 +38,7 @@ function resetSelected() {
     icon.classList.remove('selected');
   });
   stopConfetti();
+  removeConfetti();
 }
 
 // Random computer choice 
