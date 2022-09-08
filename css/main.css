@@ -51,6 +51,10 @@ h2 {
   color: hsl(0deg, 0%, 0%) !important;
 }
 
+.reset-icon {
+  font-size: 30px;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
