@@ -30,6 +30,9 @@ let playerScoreNumber = 0;
 let computerScoreNumber = 0;
 let computerChoice = ';'
 
+// Check result, increase scores, update resultText
+function updateScore(playerChoice) {}
+
 // Call functions to process turn
 function checkResult(playerChoice) {
   updateScore(playerChoice);
