@@ -57,6 +57,10 @@ h2 {
   margin-left: 50px;
 }
 
+.result-container {
+  display: flex;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
