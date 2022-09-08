@@ -23,6 +23,10 @@ h1 {
   margin: 50px;
 }
 
+h2 {
+  margin-bottom: 20px;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
