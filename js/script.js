@@ -26,6 +26,9 @@ const choices = {
   spock: { name: 'Spock', defeats: ['scissors', 'rock'] },
 };
 
+// Call functions to process turn
+function checkResult(playerChoice) {}
+
 // Passing player selection value and styling icons
 function select(playerChoice) {
   checkResult(playerChoice);
