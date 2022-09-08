@@ -18,4 +18,6 @@ const computerSpock = document.getElementById('computerSpock');
 
 const allGameIcons = document.querySelectorAll('.far');
 
-const choices = {}
+const choices = {
+  rock: { name: 'Rock', defeats: ['scissors', 'lizard'] },
+}
