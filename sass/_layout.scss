@@ -26,3 +26,11 @@
     height: 580px;
   }
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: SAMRTPHONE (VERTICAL)
+@media screen and (max-width: 500px) {
+  .game-container {
+    height: 550px;
+  }
+}

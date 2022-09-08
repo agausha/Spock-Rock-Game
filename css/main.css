@@ -36,4 +36,9 @@ body {
     width: 95%;
     height: 580px;
   }
+}
+@media screen and (max-width: 500px) {
+  .game-container {
+    height: 550px;
+  }
 }/*# sourceMappingURL=main.css.map */
