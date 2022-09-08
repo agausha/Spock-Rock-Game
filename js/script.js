@@ -154,3 +154,4 @@ function select(playerChoice) {
       break;
   }
 }
+window.select = select;
