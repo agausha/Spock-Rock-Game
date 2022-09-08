@@ -39,6 +39,7 @@ h2 {
 #player .far,
 #player .choice {
   color: hsl(210deg, 100%, 56%);
+  cursor: pointer;
 }
 
 .game-container {
