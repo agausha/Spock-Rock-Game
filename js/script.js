@@ -53,6 +53,7 @@ function updateScore(playerChoice) {
 
 // Call functions to process turn
 function checkResult(playerChoice) {
+  displayComputerChoice();
   updateScore(playerChoice);
 }
 
