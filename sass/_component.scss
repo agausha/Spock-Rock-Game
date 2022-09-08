@@ -71,3 +71,27 @@ h2 {
     margin-left: 25px;
   }
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: SAMRTPHONE 
+@media screen and (max-width: 376px) {
+  h1 {
+    font-size: 22px;
+  }
+
+  .player-container {
+    margin: 43px 0 25px 20px;
+  }
+
+  .far {
+    font-size: 43px;
+  }
+
+  .reset-icon {
+    margin-top: 15px;
+  }
+
+  .result-container {
+    margin: 0 20px;
+  }
+}
