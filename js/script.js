@@ -32,6 +32,9 @@ let playerScoreNumber = 0;
 let computerScoreNumber = 0;
 let computerChoice = ';'
 
+// Add 'selected' styling & computerChoice
+function displayComputerChoice() {}
+
 // Check result, increase scores, update resultText
 function updateScore(playerChoice) {
   if (playerChoice === computerChoice) {
