@@ -1,0 +1,8 @@
+Spock Rock Game
+
+How it work
+
+- You have to click on one of the icon to select your weapon
+- Then, They will be a logic that will allow the commputer to make a randomly selection
+- And then it will evaluate which player won or if they choose the same thing, if there's a tie between the player & the computer
+- You can use the reset icon to start the game over
