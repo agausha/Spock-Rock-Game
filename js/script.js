@@ -28,6 +28,7 @@ const choices = {
 
 let playerScoreNumber = 0;
 let computerScoreNumber = 0;
+let computerChoice = ';'
 
 // Call functions to process turn
 function checkResult(playerChoice) {}
