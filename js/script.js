@@ -15,3 +15,5 @@ const computerPaper = document.getElementById('computerPaper');
 const computerScissors = document.getElementById('computerScissors');
 const computerLizard = document.getElementById('computerLizard');
 const computerSpock = document.getElementById('computerSpock');
+
+const allGameIcons = document.querySelectorAll('.far');
