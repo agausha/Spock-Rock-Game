@@ -19,4 +19,6 @@ h2 {
 }
 
 #player .far,
-#player .choice {}
+#player .choice {
+  color: $color-primary-player-choice;
+}

@@ -36,6 +36,11 @@ h2 {
           user-select: none;
 }
 
+#player .far,
+#player .choice {
+  color: hsl(210deg, 100%, 56%);
+}
+
 .game-container {
   width: 530px;
   height: 600px;
