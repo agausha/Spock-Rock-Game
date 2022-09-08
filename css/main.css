@@ -63,6 +63,10 @@ h2 {
   align-items: center;
 }
 
+.result-text {
+  font-size: 40px;
+}
+
 .game-container {
   width: 530px;
   height: 600px;
